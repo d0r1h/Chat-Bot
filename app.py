@@ -8,8 +8,8 @@ app = Flask(__name__)
 
 
 
-tokenizer = AutoTokenizer.from_pretrained("microsoft/DialoGPT-large")
-model = AutoModelForCausalLM.from_pretrained("microsoft/DialoGPT-large")
+tokenizer = AutoTokenizer.from_pretrained("microsoft/DialoGPT-small")
+model = AutoModelForCausalLM.from_pretrained("microsoft/DialoGPT-small")
 
 @app.route("/")
 def home():
