@@ -1,4 +1,4 @@
-Conversational AI Chat-Bot in in Keras and Huggingface 
+Conversational AI Chat-Bot using Keras and Huggingface 
 #
 
 Deployment Link : https://huggingface.co/spaces/d0r1h/ineuronbot
