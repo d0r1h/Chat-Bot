@@ -19,5 +19,5 @@ Following notebook contains the code for data parsing and enc-dec model.
 
 | Notebook | Colab | 
 | ------ | ------ | 
-| notebook | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/d0r1h/Chat-Bot/blob/main/hackathon-chatbot.ipynb) |
+| notebook | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/d0r1h/Chat-Bot/blob/main/hackathon-chatbot.ipynb) |
 
