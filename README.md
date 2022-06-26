@@ -9,6 +9,9 @@ Task we carried out during the hackathon
 2. Build Encoder-Decoder Model
 3. Used GPT model as a final deployment
 
+### Dataset:
+
+1. Clean dataset can be accessed [here](https://drive.google.com/file/d/11qLxSxY0v_I0Lleo5sXFNyxtKypWL_Gl/view?usp=sharing)
 
 ![](stock.png)
 
