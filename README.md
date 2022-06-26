@@ -8,3 +8,6 @@ Task we carried out during the hackathon
 1. Clean and parse the data 
 2. Build Encoder-Decoder Model
 3. Used GPT model as a final deployment
+
+
+![](stock.png)
