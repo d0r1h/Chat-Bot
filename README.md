@@ -12,6 +12,9 @@ Task we carried out during the hackathon
 ### Dataset:
 
 1. Clean dataset can be accessed [here](https://drive.google.com/file/d/11qLxSxY0v_I0Lleo5sXFNyxtKypWL_Gl/view?usp=sharing)
+2. Following image is the snapshot of processed dataset
+
+![](https://github.com/d0r1h/Chat-Bot/blob/main/static/stock1.png)
 
 #
 
